@@ -1,2 +1,4 @@
 # hello-world
-Just a new repo
+
+A new repo for a freshman to learn!
+That's it!
